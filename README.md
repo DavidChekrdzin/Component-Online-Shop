@@ -1,7 +1,7 @@
 # Component-Online-Shop
 
 ## Description
-An fullstack e-commerce application with a robust frontend and backend architecture built using React, Redux, and React Router for the frontend and ASP.NET Core, Entity Framework and SQL Server for the backend. The application has both customer-facing and admin-facing components, with features such as product listings, authentication, and order management.
+A fullstack e-commerce application with a robust frontend and backend architecture built using React, Redux, and React Router for the frontend and ASP.NET Core, Entity Framework and SQL Server for the backend. The application has both customer-facing and admin-facing components, with features such as product listings, authentication, and order management.
 The application is designed to manage state in a centralized manner, and using the React Router the application has multiple routes and navigation.
 
 ### Some additional information about the project:
