@@ -9,9 +9,8 @@ The application is designed to manage state in a centralized manner, and using t
 * Identity framework is set up for user authentication and authorization
 * JWT Bearer authentication is implemented for secure access
 * Swagger is added for API documentation
-* AutoMapper is used for object-object mapping
 * The backend has three layers: Controllers, Services and Repositories connected using Dependency Injection
-* Models and DTO Models with data validation for both frontend and backend
+* Models with data validation for both frontend and backend
 * The application uses RESTful API
 * Client side validation
 * Frontend client uses a wide range of both functional and class based components with React
