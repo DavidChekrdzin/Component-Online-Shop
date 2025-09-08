@@ -15,7 +15,6 @@ The application is designed to manage state in a centralized manner, and using t
 * The application uses RESTful API
 * Client side validation
 * Frontend client uses a wide range of both functional and class based components with React
-* Redux is used for state management
 * Bootstrap is used for managing the look of the page
 
 ## Executing program
